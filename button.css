@@ -1,0 +1,27 @@
+#pops {
+    height: 100px;
+    width: 100px;
+    background-color:white;
+    outline: none;
+    /* margin: 10px; */
+    /* border: none; */
+    border-radius: 5px;
+    padding-bottom: 25px;
+    /* margin: auto; */
+   
+  }
+
+  .tomato{
+    width: 60px;
+    height: 60px;
+  }
+  #button {
+    width: 70px;
+    height: 40px;
+    text-align: center;
+    background-color:red;
+    color: white;
+    font-weight: bold;
+  }
+
+  
